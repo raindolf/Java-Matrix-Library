@@ -1,0 +1,2 @@
+This is a java matrix calculation package that includes calculation of determinants,matrix multiplication, addition,encoding,decoding,cipher,Gauss
+Jordan and echelon of a matrix.Our first method calculates the determinant of a two by two sized matrix.Join me and let's build a java matrix library.
