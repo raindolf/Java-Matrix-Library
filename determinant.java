@@ -1,6 +1,6 @@
 //Send me your mails iraindolf@yahoo.com and www.facebook.com/oasisweb
 
-import java.util.Scanner; //This package allow the user to input
+import java.util.Scanner; //This package allows the user to input
 
 public class determinant
 
