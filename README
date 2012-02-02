@@ -1,2 +1,3 @@
-This is a java matrix calculation package that includes calculation of determinants,matrix multiplication, addition,encoding,decoding,cipher,Gauss
-Jordan and echelon of a matrix.Our first method calculates the determinant of a two by two sized matrix.Join me and let's build a java matrix library.
+Java Matrix Library is an easy to use, small matrix calculation library that includes calculation of determinants, matrix multiplication, addition, encoding ,decoding ,cipher ,Gauss Jordan and echelon of 
+a matrix.Java Matrix Library is written in the Java programming language and can be run on Mac OS X, Windows 
+and Linux.Our first method calculates the determinant of a two by two sized matrix.Join me and let's build a java matrix library.
