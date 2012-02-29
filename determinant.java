@@ -1,4 +1,4 @@
-//Send me your mails iraindolf@yahoo.com and www.facebook.com/oasisweb
+//Send me your mails iraindolf@yahoo.com and www.oasiswebsoft.com
 
 import java.util.Scanner; //This package allows the user to input
 
@@ -10,6 +10,7 @@ public static void main ( String [] args )
 
 {
 
+//Creating a new method for the Scanner Input called dataInput
 Scanner dataInput = new Scanner(System.in);
 
 int var1;
