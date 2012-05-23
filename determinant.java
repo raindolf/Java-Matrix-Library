@@ -46,6 +46,8 @@ public static int determinant ( int a,int b,int c, int d )
 
 int e;
 
+//simple algorithms simply work and I love it
+
  e = a * d - b * c ; //algorithm for calculating the determinant of a two by two sized matrix.
 
 return e;
