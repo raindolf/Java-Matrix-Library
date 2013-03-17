@@ -13,6 +13,8 @@ public static void main ( String [] args )
 //Creating a new method for the Scanner Input called dataInput
 Scanner dataInput = new Scanner(System.in);
 
+//declaring variables , using an integer type
+
 int var1;
 int var2;
 int var3;
